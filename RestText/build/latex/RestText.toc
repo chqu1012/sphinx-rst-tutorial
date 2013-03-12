@@ -1,0 +1,24 @@
+\select@language {german}
+\contentsline {chapter}{\numberline {1}Listen}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}Formatierungen}{3}{chapter.2}
+\contentsline {chapter}{\numberline {3}Umbruch}{5}{chapter.3}
+\contentsline {chapter}{\numberline {4}SourceCode}{7}{chapter.4}
+\contentsline {chapter}{\numberline {5}Tabellen}{9}{chapter.5}
+\contentsline {chapter}{\numberline {6}Sections}{11}{chapter.6}
+\contentsline {section}{\numberline {6.1}This is a 1. heading}{11}{section.6.1}
+\contentsline {section}{\numberline {6.2}This is a 1. heading}{11}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}This is a heading}{11}{subsection.6.2.1}
+\contentsline {subsubsection}{This is a heading}{11}{subsubsection*.3}
+\contentsline {paragraph}{This is a heading}{11}{paragraph*.4}
+\contentsline {subparagraph}{This is a heading}{11}{subparagraph*.5}
+\contentsline {paragraph}{Title 1}{11}{paragraph*.6}
+\contentsline {paragraph}{Title 2}{11}{paragraph*.7}
+\contentsline {subsubsection}{subtitle 2.1}{11}{subsubsection*.8}
+\contentsline {subsubsection}{subtitle}{11}{subsubsection*.9}
+\contentsline {chapter}{\numberline {7}Direktiven}{13}{chapter.7}
+\contentsline {chapter}{\numberline {8}Fussnoten}{15}{chapter.8}
+\contentsline {section}{\numberline {8.1}Normale Fussnoten}{15}{section.8.1}
+\contentsline {section}{\numberline {8.2}Citations}{15}{section.8.2}
+\contentsline {section}{\numberline {8.3}Replacement}{15}{section.8.3}
+\contentsline {chapter}{\numberline {9}Indices and tables}{17}{chapter.9}
+\contentsline {chapter}{Literaturverzeichnis}{19}{chapter*.11}

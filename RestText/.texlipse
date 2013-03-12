@@ -1,0 +1,14 @@
+#TeXlipse project settings
+#Tue Mar 12 19:03:17 CET 2013
+markTmpDer=true
+builderNum=2
+outputDir=build/latex/
+makeIndSty=
+bibrefDir=
+outputFormat=pdf
+tempDir=build/latex
+mainTexFile=RestText.tex
+outputFile=RestText.pdf
+langSpell=
+markDer=true
+srcDir=build/latex/
